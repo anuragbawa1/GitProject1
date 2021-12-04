@@ -1,0 +1,1 @@
+git diff can be used to see changes made to the file before committing the changes.

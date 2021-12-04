@@ -1,1 +1,2 @@
 git diff can be used to see changes made to the file before committing the changes.
+Made some change so that git diff might provide an output.
